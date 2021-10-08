@@ -1,0 +1,7 @@
+Git é utilizado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+git clone  - a partir de um Git existente – um projeto que você queira contribuir – o comando para isso é o git clone + url
+git add  - especificam os arquivos que você quer monitorar
+git status - Para visualizar o status dos seus arquivos
+git diff - observar mudanças feitas
+git log - verificar o histórico dos commits efetuados em determinado repositório
